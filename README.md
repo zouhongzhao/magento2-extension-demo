@@ -14,6 +14,6 @@ magento2的插件demo
 
 1，进[magento2开发社区](http://bbs.mallol.cn/)讨论
 
-2，进qq群找我，群号220619440
+2，进qq群找我，群号326270402
 
 
